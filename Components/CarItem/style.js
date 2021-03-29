@@ -24,6 +24,11 @@ const styles = StyleSheet.create({
       height: '100%',
       resizeMode:'cover',
       position:'absolute'
+    },
+    containerButton:{
+      position:'absolute',
+      width:'100%',
+      bottom:20
     }
   
   });
